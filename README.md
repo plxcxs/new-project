@@ -3,3 +3,4 @@ Test update
 Test GCM
 Test cache
 Test GCM persistence
+Verify no prompt
